@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Daniel, known here as @dffrs.  
 - 🧑🏻‍💻 Frontend Developer @ NOKIA.
-- 🧪 This is my space for new ideas, stacks, and unfinished projects.
+- 🧪 This is where I test stacks, ideas, and half-baked projects.
+- 🚧 Most repos are experiments (some survive)
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-626b28217/).
